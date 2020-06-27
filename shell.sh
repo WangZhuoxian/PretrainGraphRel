@@ -1,0 +1,1 @@
+python main.py --entity_position_encoding entity_tag --model_architecture joint --aggregation_way entity_start --gcn_layer 2 --max_seq_length 110 --gradient_accumulation_steps 2 --batch_size 28 --seed 2020
